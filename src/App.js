@@ -1,5 +1,6 @@
 import Hero from "./sections/Hero";
 import PaketBelajar from "./sections/PaketBelajar";
+
 function App() {
   return (
     <div>
