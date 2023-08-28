@@ -1,7 +1,7 @@
 export default function PaketBelajar() {
   return (
     <section>
-      <h1>This is paket belajar</h1>
+      <div className="container mx-auto rounded bg-slate-200 p-16 mt-[-4rem]"></div>
     </section>
   );
 }
