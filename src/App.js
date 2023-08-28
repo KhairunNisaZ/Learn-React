@@ -1,7 +1,10 @@
+import Hero from "./sections/Hero";
+import PaketBelajar from "./sections/PaketBelajar";
 function App() {
   return (
     <div>
-      <h1>hello world</h1>
+      <Hero />
+      <PaketBelajar />
     </div>
   );
 }
